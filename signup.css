@@ -1,0 +1,30 @@
+.html{
+    font-family: "Lucida Grande";
+
+}
+.display{
+    margin-top:30px;
+    text-align: center;
+}
+.signup{
+    position: relative;
+    margin-top: 10%;
+    background-color: #DCDCDC;
+    height:400px;
+    margin-bottom:20px;
+  }
+
+  .main-title{
+      text-align: center;
+      padding:20px;
+      margin-bottom:50px;
+      margin-top:10px;
+  }
+  .form-ele{
+      padding:5px;
+      margin-bottom:15px
+  }
+ .button{
+     border-radius: 10px;
+     margin-right: 50px;
+ }
